@@ -4,7 +4,7 @@ WebExpert コースのためのテンプレートです。
 
 Ryuのポートフォリオ
 
-https://ryu-shihyun.github.io/my-portfolio-template/
+https://ryu-shihyun.github.io/my-portfolio/
 
 (ここから上の行は、自分で編集してポートフォリオサイトの紹介にしてください。)
 

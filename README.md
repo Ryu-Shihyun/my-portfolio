@@ -1,7 +1,7 @@
 # ポートフォリオ製作課題テンプレート
 
 WebExpert コースのためのテンプレートです。
-
+URL: https://ryu-shihyun.github.io/my-portfolio-template/
 (ここから上の行は、自分で編集してポートフォリオサイトの紹介にしてください。)
 
 # このテンプレートを使う方法
